@@ -14,6 +14,10 @@ Aera Cloud explores a guided first-run experience: accessibility preferences, co
 
 My role across Aera is **OS architecture with AI-assisted development**. This companion case study explains how the account experience is separated from the OS and how its user interface and identity service fit together.
 
+## Parallel development and OS integration
+
+We are developing Aera Cloud in parallel with Aera OS, with the account and identity layer forming the foundation for the broader cloud platform. The next planned milestone is to complete the Aera OS system-image build, integrate the account experience, and validate the device-to-cloud flow. Backend deployment and production readiness remain separate milestones.
+
 ## The experience
 
 1. **Set up accessibility:** adjust text size, contrast, transparency, and motion before account access.
